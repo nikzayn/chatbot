@@ -1,0 +1,11 @@
+{
+  "main.js": "/chatbot/static/js/main.5da36feb.chunk.js",
+  "main.js.map": "/chatbot/static/js/main.5da36feb.chunk.js.map",
+  "static/js/1.17c11936.chunk.js": "/chatbot/static/js/1.17c11936.chunk.js",
+  "static/js/1.17c11936.chunk.js.map": "/chatbot/static/js/1.17c11936.chunk.js.map",
+  "runtime~main.js": "/chatbot/static/js/runtime~main.c911c9c2.js",
+  "runtime~main.js.map": "/chatbot/static/js/runtime~main.c911c9c2.js.map",
+  "index.html": "/chatbot/index.html",
+  "precache-manifest.274344beb0169e1728ff4df0e6e7593c.js": "/chatbot/precache-manifest.274344beb0169e1728ff4df0e6e7593c.js",
+  "service-worker.js": "/chatbot/service-worker.js"
+}
